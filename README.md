@@ -1,6 +1,6 @@
 # 📈 Global Intelligence Morning Briefing
 
-Ein KI-gestütztes Aktien-Analyse-Tool, das speziell als Geburtstagsgeschenk entwickelt wurde. Die App liefert jeden Morgen ein strategisches Briefing basierend auf der aktuellen Weltlage.
+Ein KI-gestütztes Aktien-Analyse-Tool, das ich für MARKUS als Geburtstagsgeschenk von entwickelt habe. Die App liefert jeden Morgen ein strategisches Briefing basierend auf der aktuellen Weltlage. Let's rock it!!!!
 
 ## 🚀 Features
 - **Global News Sync:** Zieht Echtzeit-Schlagzeilen über die NewsAPI.
