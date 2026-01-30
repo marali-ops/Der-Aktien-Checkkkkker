@@ -1,0 +1,1 @@
+# Der-Aktien-Checkkkkker
