@@ -1,1 +1,13 @@
-.streamlit/
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Streamlit / IDE
+.streamlit/config.toml
+.vscode/
+.DS_Store
