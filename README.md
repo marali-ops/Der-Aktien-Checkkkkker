@@ -1,4 +1,4 @@
-# 📈 Global Intelligence Morning Briefing
+# 📈 Global Aktien Checkkkkker Morning Briefing
 
 Ein KI-gestütztes Aktien-Analyse-Tool, das ich für MARKUS als Geburtstagsgeschenk entwickelt habe. Die App liefert jeden Morgen ein strategisches Briefing basierend auf der aktuellen Weltlage. Let's rock it!!!!
 
